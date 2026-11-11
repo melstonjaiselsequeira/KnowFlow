@@ -1,0 +1,6 @@
+﻿KnowFlow TXT Extraction Test
+
+Project: KnowFlow
+Module: Document Processing
+Status: Backend development completed.
+Next Task: Evidence chunking.
